@@ -3,5 +3,5 @@ site ficticio criado durante o curso de Desenvolvimento WEB ministrado pelo inst
 
 O objetivo do projeto é criar um site, usandos todos os conhecimentos CSS adquiridos até o momento, para uma modelo.
 
-[![](https://werlencardoso.files.wordpress.com/2020/06/projeto-annabelle.png?w=380)](http://werlencardoso.epizy.com/anna_bella/)
+[![](https://werlencardoso.files.wordpress.com/2020/06/projeto-annabelle.png?w=380)](http://werlencardoso.epizy.com/anna_bella/)<br>
 (Clique na imagem para ver exemplo)
